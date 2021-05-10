@@ -10,6 +10,5 @@ contained JSX (React's markup which is similar to HTML) and CSS.
 
 ## **Tech/Frameworks Used**
 
-React
-
-## **How To Use**
+React is the Javascript framework used. Node.js is used for the server-side. NPM is used to manage Javascript and CSS modules. Visual Studio Code was used to
+develop the files involved.
